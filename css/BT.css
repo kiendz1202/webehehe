@@ -1,0 +1,19 @@
+body{
+    padding-left: 100px;
+    width: 600px;
+    line-height: 1.5;
+}
+h1{
+    padding-left: 40px;
+}
+p{
+    font-family: Arial;
+    font-size: 18px;
+    text-align: justify;
+    padding-left: 40px;
+
+}
+img{
+    max-width: 108%;
+}
+
